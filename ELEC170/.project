@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>DMTH137</name>
+	<name>ELEC170</name>
 	<comment></comment>
 	<projects>
-		<project>DMTH137</project>
+		<project>ELEC170</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
@@ -17,9 +17,9 @@
 	</natures>
 	<linkedResources>
 		<link>
-			<name>src/DMTH137.bib</name>
+			<name>src/ELEC170.bib</name>
 			<type>1</type>
-			<locationURI>PROJECT_LOC/src/DMTH137.bib</locationURI>
+			<locationURI>PROJECT_LOC/src/ELEC170.bib</locationURI>
 		</link>
 	</linkedResources>
 </projectDescription>
